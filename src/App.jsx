@@ -4,7 +4,7 @@ import Login from './pages/Login';
 import Admin from './features/Admin/Admin';
 import Protected from './pages/Protected';
 import Rental from './features/Admin/Rental/Rental';
-import Challanges from './features/Admin/Challenges/Challanges';
+import Challanges from './features/Admin/Challenges/Challenges';
 import Setting from './features/Admin/Setting/Setting';
 
 const router = createBrowserRouter([
